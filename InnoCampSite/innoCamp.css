@@ -1,0 +1,35 @@
+body,
+.first-block {
+    margin-bottom: 20px;
+    padding: 20px 20px 20px 20px ;
+    background-color: #a2e1e7;
+    font-size: 50px;
+    text-align: center;
+    color: #4f1601;
+
+}
+.second-block2{
+    display: inline-block;
+    color: #411301;
+    font-size: 35px;
+
+    align-items: center;
+}
+span{
+    padding: 1px 150px;
+}
+.second-block1{
+    display: inline-block;
+border: 20px ;
+    align-items: center;
+}
+span1{
+    padding: 2px 120px;
+}
+
+.third-block {
+
+text-align: justify;
+    font-size: 20px;
+    color: #512e04;
+}
